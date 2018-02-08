@@ -19,3 +19,5 @@ If you can make use of it, please cite:
 We also provide a more detailed [Technical Report](https://files.icg.tugraz.at/f/130d433de1/).
 
 ![Dataset samples](/doc/3dpitotidataset_samples.jpg)
+
+Adapt the corresponding paths in `main_EvaluateResultFiles.m`
