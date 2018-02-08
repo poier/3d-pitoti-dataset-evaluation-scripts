@@ -11,6 +11,7 @@ We have also put together a more detailed [Technical Report](https://files.icg.t
 
 ![Dataset samples](/doc/3dpitotidataset_samples.jpg)
 
+## Usage
 To use the code adapt the corresponding paths in `main_EvaluateResultFiles.m`. 
 A link to the dataset can be found on the 
 [Project Page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/).
