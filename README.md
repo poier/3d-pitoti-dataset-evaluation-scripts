@@ -1,13 +1,13 @@
 # The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation
 
-The repository contains the evaluation scripts for the dataset introduced in:  
+This repository contains the evaluation scripts for the dataset introduced in:  
 
 **The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation**  
 Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof.  
 In *Proc. CBMI*, 2017. 
 ([Project Page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)).
 
-We also provide a more detailed [Technical Report](https://files.icg.tugraz.at/f/130d433de1/).
+We have also put together a more detailed [Technical Report](https://files.icg.tugraz.at/f/130d433de1/).
 
 ![Dataset samples](/doc/3dpitotidataset_samples.jpg)
 
