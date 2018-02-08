@@ -4,12 +4,15 @@ The repository contains the evaluation scripts for the dataset introduced in:
 
 The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation  
 Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof.  
-In *Proc. CBMI*, 2017. ([Project Page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)).
+In *Proc. CBMI*, 2017. 
+([Project Page]
+(https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)).
 
 If you can make use of it, please cite:
 ```
 @inproceedings{Poier2017cbmi_3dpitotidataset,  
-  author = {Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof},  
+  author = {Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, 
+Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof},  
   title = {{The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation}},  
   booktitle = {{Content-Based Multimedia Indexing (CBMI)}},  
   year = {2017}
@@ -20,4 +23,7 @@ We also provide a more detailed [Technical Report](https://files.icg.tugraz.at/f
 
 ![Dataset samples](/doc/3dpitotidataset_samples.jpg)
 
-Adapt the corresponding paths in `main_EvaluateResultFiles.m`
+To use the code adapt the corresponding paths in `main_EvaluateResultFiles.m`. 
+A link to the dataset can be found on the 
+[Project Page]
+(https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/).
